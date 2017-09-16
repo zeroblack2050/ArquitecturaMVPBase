@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ArquitecturaMVPBase</string>
+    <string name="product_name">Producto:</string>
+    <string name="product_description">Descripción:</string>
+    <string name="product_quantity">Cantidad:</string>
+    <string name="product_price">Precio:</string>
+</resources>
